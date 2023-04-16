@@ -14,7 +14,7 @@ In addition to my DevOps expertise, I have a keen interest in AI & ML, particula
 - **Cloud Platforms**: AWS, Azure, Serverless
 - **On-Prem Infrastructure**: From pulling cables through racks, to managing multiple datacenters via VSphere
 - **Programming Languages**: PHP, TypeScript, Go, Python, Haskell
-- **Frameworks**: Next.js, Express.js, Symfony, React (albeit front-end is my largest enemy)
+- **Frameworks**: Next.js, Express.js, Symfony, FastAPI, Gin, React (albeit front-end is my largest enemy)
 - **Infrastructure as Code (IaC)**: Terraform, AWS CloudFormation(not preffered, but managed), Ansible, AWS Systems Manager
 - **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions
 - **Load Balancing**: Traefik, Nginx, AWS(suite of LBs)
