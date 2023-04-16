@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi there! I'm Nikolay, a Senior DevOps Engineer with a strong background in Serverless(<3 Vercel, make me unemployed quickly!), AWS, and VSphere. I have a passion for developing efficient and scalable cloud(& hybrid) infrastructures, and I'm always eager to explore and learn new technologies. My coding experience spans across multiple languages and frameworks, including PHP, TypeScript, Go, Python.
+Hi there! I'm Nikolay, a Senior DevOps Engineer with a strong background in Serverless(💗Vercel, make me unemployed quickly!), AWS, and VSphere. I have a passion for developing efficient and scalable cloud(& hybrid) infrastructures, and I'm always eager to explore and learn new technologies. My coding experience spans across multiple languages and frameworks, including PHP, TypeScript, Go, Python.
 
 In addition to my DevOps expertise, I have a keen interest in AI & ML, particularly in deep learning, LLM, LangChain, and creating custom models for document ingestion. As a blockchain enthusiast, I have experience with cryptocurrency and was part of [Alonzo Blue](https://cointelegraph.com/news/cardano-grows-closer-to-launching-smart-contracts-with-new-testnet), the first cohort of Plutus pioneers in the Cardano blockchain.
 
