@@ -49,3 +49,22 @@ I'm always looking to expand my knowledge and stay up-to-date with industry tren
 
 As a dedicated advocate of open-source software, I actively participate in a variety of projects that resonate with my areas of expertise. My primary interests lie in projects focusing on cloud infrastructure, DevOps, AI & ML, and blockchain technologies. Through my contributions to open-source initiatives, I strive to share my knowledge, foster innovation, and help shape the future of the tech industry. In doing so, I am able to collaborate with like-minded professionals, enhance my skillset, and remain at the forefront of cutting-edge developments in the field.
 
+## 📇 You made it this far, contact me!
+
+To contact me, run the following Python script to reveal my email address:
+
+```python
+import base64
+
+
+def reveal(obfuscated_email):
+    decoded_email = base64.b64decode(obfuscated_email.encode()).decode()
+    email = decoded_email[::-1]
+    return email
+
+
+obfuscated_email = "bW9jLmtjdWRAaXRhYmFi"
+email = reveal(obfuscated_email)
+
+print(email)
+```
