@@ -1,5 +1,3 @@
-# Nikolay - Senior DevOps Engineer, Cloud Enthusiast & Blockchain Innovator
-
 ## 👋 About Me
 
 Hi there! I'm Nikolay, a Senior DevOps Engineer with a strong background in Serverless(<3 Vercel, make me unemployed quickly!), AWS, and VSphere. I have a passion for developing efficient and scalable cloud(& hybrid) infrastructures, and I'm always eager to explore and learn new technologies. My coding experience spans across multiple languages and frameworks, including PHP, TypeScript, Go, Python.
