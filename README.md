@@ -53,18 +53,29 @@ As a dedicated advocate of open-source software, I actively participate in a var
 
 To contact me, run the following Python script to reveal my email address:
 
+### Prep
+```bash
+#!/bin/bash
+pip3 install requests==2.28.2 pgpy==0.6.0
+```
+### Run
 ```python
-import base64
+#grandReveal.py
 
+import requests
+import pgpy
 
-def reveal(obfuscated_email):
-    decoded_email = base64.b64decode(obfuscated_email.encode()).decode()
-    email = decoded_email[::-1]
-    return email
+url = "http://keyserver.ubuntu.com/pks/lookup?op=get&search=0x4540ff917ddc6743ddcb836c1741ef172011acf9"
+response = requests.get(url)
 
-
-obfuscated_email = "bW9jLmtjdWRAaXRhYmFi"
-email = reveal(obfuscated_email)
-
-print(email)
+if response.status_code == 200:
+    gpg_key = response.text
+    key, _ = pgpy.PGPKey.from_blob(gpg_key)
+    user_id = key.userids[0]
+    name = user_id.name
+    email = user_id.email
+    print("Name:", name)
+    print("Email:", email)
+else:
+    print("Failed to fetch the GPG key.")
 ```
