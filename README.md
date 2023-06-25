@@ -35,7 +35,7 @@ In addition to my DevOps expertise, I have a keen interest in AI & ML, particula
 - **Terraform Associate**: [View Certification](https://www.credly.com/badges/e95771b6-ea19-467f-bc2b-c2dd917f166e/public_url)
 - **AWS Practitioner**: [View Certification](https://www.credly.com/badges/78cbe465-a264-410d-9d17-3e65eb539b70/public_url)
 - **AWS Solution Architect Associate**: [View Certification](https://www.credly.com/badges/a08db99a-ece5-4655-82b8-156c30157249/public_url)
-
+- **New Relic Full Stack Observability Practitioner**: [Pending Certificate(1-2 days), but passed exam](https://example.com)
 ## 🛡️ Security & Code Quality
 
 With years of experience in infrastructure as code, I have gained expertise in both Day 0 and Day 1 operations. I take security very seriously and want to believe I am proficient in secrets management, code scanning, and code quality. I have implemented numerous quality & security-focused automations, ranging from SonarQube through Snyk and into modern decentralized suites like Pyrsia.
