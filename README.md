@@ -8,6 +8,10 @@ In addition to my DevOps expertise, I have a keen interest in AI & ML, particula
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nstankov-bg&count_private=true&theme=tokyonight&showicons=true)]()
 
+## Current Primary Interest(s):
+
+- **OpenAI/Evals**
+- **Langchain**
 
 ## 💼 Technical Skills
 
