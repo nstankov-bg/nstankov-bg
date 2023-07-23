@@ -10,7 +10,7 @@ In addition to my DevOps expertise, I have a keen interest in AI & ML, particula
 
 ## Current Primary Interest(s):
 
-- **OpenAI/Evals**
+- **OpenAI/Evals** [My Open Source Project linked to this](https://github.com/nstankov-bg/oaievals-collector)
 - **Langchain**
 
 ## 💼 Technical Skills
