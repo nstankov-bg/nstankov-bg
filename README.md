@@ -20,7 +20,7 @@ In addition to my DevOps expertise, I have a keen interest in AI & ML, particula
 - **Programming Languages**: PHP, TypeScript, Go, Python, Haskell
 - **Frameworks**: Next.js, Express.js, Symfony, FastAPI, Gin, React (albeit front-end is my largest enemy)
 - **Infrastructure as Code (IaC)**: Terraform, AWS CloudFormation(not preffered, but managed), Ansible, AWS Systems Manager
-- **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions
+- **CI/CD**: GitHub Actions, Jenkins, GitLab CI/CD
 - **Load Balancing**: Traefik, Nginx, AWS(suite of LBs)
 - **Containerization & Orchestration**: dockerd ,containerd, Docker Swarm, Kubernetes(various flavors from K3S to EKS)
 - **Custom Registry creation & Management**: Docker Registry v2, Harbor
